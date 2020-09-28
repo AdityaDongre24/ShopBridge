@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServer", "BlazorServer\BlazorServer.csproj", "{9902ED92-43E1-4DAF-9790-1D5405AB994E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBridge", "ShopBridge\ShopBridge.csproj", "{83D407C9-75D3-49DC-BC65-579A9546B024}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBridgeModels", "ShopBridgeModels\ShopBridgeModels.csproj", "{DBA7DCCA-94EA-4BAF-BB01-37461BE87004}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShopBridge.Api", "ShopBridge.Api\ShopBridge.Api.csproj", "{7C22930B-BFEB-4998-9676-2982413DE724}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9902ED92-43E1-4DAF-9790-1D5405AB994E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9902ED92-43E1-4DAF-9790-1D5405AB994E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9902ED92-43E1-4DAF-9790-1D5405AB994E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9902ED92-43E1-4DAF-9790-1D5405AB994E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D407C9-75D3-49DC-BC65-579A9546B024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D407C9-75D3-49DC-BC65-579A9546B024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D407C9-75D3-49DC-BC65-579A9546B024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D407C9-75D3-49DC-BC65-579A9546B024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA7DCCA-94EA-4BAF-BB01-37461BE87004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA7DCCA-94EA-4BAF-BB01-37461BE87004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA7DCCA-94EA-4BAF-BB01-37461BE87004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA7DCCA-94EA-4BAF-BB01-37461BE87004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C22930B-BFEB-4998-9676-2982413DE724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C22930B-BFEB-4998-9676-2982413DE724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C22930B-BFEB-4998-9676-2982413DE724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C22930B-BFEB-4998-9676-2982413DE724}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F94A477D-3A79-4AA6-B041-B86B4561A360}
+	EndGlobalSection
+EndGlobal
