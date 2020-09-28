@@ -1,9 +1,9 @@
 # ShopBridge
-A Blazor project with ASP.Net Web API and MS SQL Server support
+A Blazor project with ASP.Net Web API and MS SQL Server support.
 
-Frontend : Blazor Server Application.
-Backend : ASP.Net Web API.
-Database : Microsoft SQL Server.
+ Frontend : Blazor Server Application.
+ Backend : ASP.Net Web API.
+ Database : Microsoft SQL Server.
 
 Installation
 -------------------------
@@ -16,7 +16,7 @@ Run
 
 1. Update Database connection string on path ShopBridge.Api/appsettings.json
    change value of "DBConnection" with running database server connectionn string.
-2. In Visual studio open View/OthereWindow/Package Manager Console
+2. In Visual studio open View/OthereWindow/Package Manager Console, Select project ShopBridge.Api
    and Execute command : Update-Database
 
 
