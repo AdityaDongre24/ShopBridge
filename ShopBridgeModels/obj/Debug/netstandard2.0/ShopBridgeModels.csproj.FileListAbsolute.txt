@@ -1,0 +1,9 @@
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\bin\Debug\netstandard2.0\ShopBridgeModels.deps.json
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\bin\Debug\netstandard2.0\ShopBridgeModels.dll
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\bin\Debug\netstandard2.0\ShopBridgeModels.pdb
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\obj\Debug\netstandard2.0\ShopBridgeModels.csprojAssemblyReference.cache
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\obj\Debug\netstandard2.0\ShopBridgeModels.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\obj\Debug\netstandard2.0\ShopBridgeModels.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\obj\Debug\netstandard2.0\ShopBridgeModels.dll
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\obj\Debug\netstandard2.0\ShopBridgeModels.pdb
+C:\Users\Aditya\source\repos\BlazorApplication\ShopBridgeModels\obj\Debug\netstandard2.0\ShopBridgeModels.csproj.CoreCompileInputs.cache
