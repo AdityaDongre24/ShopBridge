@@ -1,0 +1,18 @@
+﻿@page "/"
+@inherits ItemListBase
+
+<a type="button" class="basicStyle btn btn-primary" href="/AddItem">Add Item</a>
+
+@if (ItemList == null)
+{
+    <div class="spinner"></div>
+}
+else
+{
+    <div class="list-group-horizontal">
+        @foreach (var item in ItemList)
+        {
+            <DisplayItem Item="item" OnItemDeleted="ItemDeleted"></DisplayItem>
+        }
+    </div>
+}

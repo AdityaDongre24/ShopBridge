@@ -1,0 +1,18 @@
+﻿@inherits DisplayItemBase
+
+<div class="basicStyle d-flex" style="border:1px solid darkblue; border-radius:10px">
+    <img class="basicStyle imageThumbnail" src="@Item.ImageSource"
+         onclick="location.href='@($"/ItemDetails/{@Item.Id}")'" />
+    <h3 class="basicStyle flex-grow-1 align-self-center"
+        onclick="location.href='@($"/ItemDetails/{@Item.Id}")'">
+        @Item.Name
+    </h3>
+    <h5 class="basicStyle align-self-center">
+        @Item.Price RS
+    </h5>
+    <button type="button" class="basicStyle btn btn-danger align-self-center"
+            @onclick="Delete_Click">
+        Delete
+    </button>
+</div>
+<ConfirmModal @ref="DeleteConfirmation" ConfirmationChanged="Confirmation_DeleteClick"></ConfirmModal>
