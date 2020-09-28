@@ -8,10 +8,15 @@ Database : Microsoft SQL
 Installation
 -------------------------
 1. Microsoft Visual Studio 2019
-    .Net Core 3.1
-    Microsoft.AspNetCore.Blazor.HttpClient(required)
+2. .Net Core SDK 3.1
+    
 
 Run
 -------------------------
+
+1. Update Database connection string on path ShopBridge.Api/appsettings.json
+   change value of "DBConnection" with running database server connectionn string.
+2. In Visual studio open View/OthereWindow/Package Manager Console
+   and Execute command : Update-Database
 
 
