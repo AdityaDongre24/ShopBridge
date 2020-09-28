@@ -1,9 +1,9 @@
 # ShopBridge
 A Blazor project with ASP.Net Web API and MS SQL Server support
 
-Frontend : Blazor Server Application
-Backend : ASP.Net Web API
-Database : Microsoft SQL
+Frontend : Blazor Server Application \n
+Backend : ASP.Net Web API \n
+Database : Microsoft SQL \n
 
 Installation
 -------------------------
